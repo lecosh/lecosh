@@ -8,7 +8,7 @@
   <li>TypeScript</li>
   <li>JavaScript</li>
   <li>HTML</li>
-  <li>CSS (Bootstrap, Tailwind)</li>
+  <li>CSS (Bootstrap, Tailwind), SASS/LESS</li>
   <li>Gulp, Webpack</li>
   <li>SQL</li>
 </ul>
