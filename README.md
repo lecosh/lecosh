@@ -4,6 +4,7 @@
 <p>Skills:</p>
 <ul>
   <li>React</li>
+  <li>Redux</li>
   <li>TypeScript</li>
   <li>JavaScript</li>
   <li>HTML</li>
