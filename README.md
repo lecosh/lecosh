@@ -10,5 +10,6 @@
   <li>HTML</li>
   <li>CSS (Bootstrap, Tailwind), SASS/LESS</li>
   <li>Gulp, Webpack</li>
+  <li>С/С++</li>
   <li>SQL</li>
 </ul>
